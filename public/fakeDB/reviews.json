@@ -1,0 +1,66 @@
+[
+    {
+        "id": "111a",
+        "name": "Lucas Murphy",
+        "country": "IRE",
+        "ratings": "4.8",
+        "img": "https://image.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg",
+		"remarks": "Great experience! Made a same day appointment on (Dr.Pro HealthCare) and got in right away. The front desk staff and the medical assistant were very nice and helpful. Dr. Micheal bell was great, gave realistic expectations and timelines. I will definitely be back and would recommend the practice!"
+    },
+	{
+        "id": "222b",
+        "name": "Zachary Shelton",
+        "country": "BEL",
+        "ratings": "4.5",
+        "img": "https://img.freepik.com/free-photo/handsome-teen-boy-shirt-hoodie-propping-chin-hand-looking-cheerful-front-view_176474-106496.jpg?size=338&ext=jpg",
+		"remarks": "(Name) and the entire staff at (Dr.Pro HealthCare) are beyond amazing. When you have an appointment, they will spend the whole scheduled period with you if need be; I know when I come in to see Dr. Zachary Shelton, he’s already reviewed the reasons for my coming in and my file. I never feel rushed, and he always asks if I have any other questions. He’s awesome. Also, when he knew my medication was expensive on my insurance, he looked up what competing pharmacies charged with GoodRX and printed me out the prices – saved me lots!"
+    },
+	{
+        "id": "333c",
+        "name": "Franklin Morgan",
+        "country": "Russia",
+        "ratings": "5",
+        "img": "https://image.freepik.com/free-photo/no-problem-concept-bearded-man-makes-okay-gesture-has-everything-control-all-fine-gesture-wears-spectacles-jumper-poses-against-pink-wall-says-i-got-this-guarantees-something_273609-42817.jpg",
+		"remarks": " Dr. Gary trade, is our favorite Medical provider. She is always friendly, thoughtful, and puts our concerns first. I can not speak more highly of her. The staff is always helpful and my experience with other medical professionals in this office has always been above my level of standards."
+    },
+	{
+        "id": "444d",
+        "name": "Mahbub Sizer",
+        "country": "FRA",
+        "ratings": "4.4",
+        "img": "https://images.unsplash.com/photo-1474176857210-7287d38d27c6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+		"remarks": "Dr. Shree kumar Reddy is very experienced opthalmologist doctor in Hyderabad. I have been consulting him for 10+ years for me, family and my Friends. He did cataracts surgery for my mother and now she can see like a normal person."
+    },
+	{
+        "id": "555e",
+        "name": "Regina Urbano",
+        "country": "Canada",
+        "ratings": "4.7",
+        "img": "https://images.unsplash.com/photo-1512353087810-25dfcd100962?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80",
+		"remarks": "Since long i was suffering from blood in cough but no doctor except Dr.Vijay kumar chennam chetty identified my problem and started the diagnosis. He is very polite and listens to each patient carefully and clearly explains the required treatment to be done. Strongly recommends dr. Vijay kumar Chennamshetty"
+    },
+	{
+        "id": "666f",
+        "name": "Marta Bradley",
+        "country": "USA",
+        "ratings": "4.6",
+        "img": "https://images.unsplash.com/photo-1499996860823-5214fcc65f8f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=466&q=80",
+		"remarks": "Doctor Rajesh fogla is a professional doctor and he helped me through my whole process of cross linking treatment and Opthalmology department of Apollo hospital jubilee hills is very good,they are cooperative and very helpful."
+    },
+	{
+        "id": "777g",
+        "name": "Gabriel Howell",
+        "country": "CANADA",
+        "ratings": "4.5",
+        "img": "https://images.unsplash.com/photo-1606166228927-3feafb447265?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80",
+		"remarks": "The care and hospitality is very incredible besides healty treatment , tests & consultations for my father. I highly recommend everyone to visit the hospital. Thank you."
+    },
+	{
+        "id": "888h",
+        "name": "Elias Walker",
+        "country": "Australia",
+        "ratings": "4.2",
+        "img": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=848&q=80",
+		"remarks": "I am having very good experience whilr attending Appollo Hospital. Very personalized attention and i wish to place on record the attention given Ms Sirisha for attending my PMe Every year."
+    }
+]
